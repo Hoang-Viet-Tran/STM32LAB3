@@ -1,0 +1,6 @@
+../Core/Src/display.c:12:6:display7SEG	0	static
+../Core/Src/display.c:19:7:update7SEG	8	static
+../Core/Src/display.c:62:6:update7SegBuffer	8	static
+../Core/Src/display.c:69:6:displayOn7SegLed	8	static
+../Core/Src/display.c:78:6:clearAllLight	8	static
+../Core/Src/display.c:87:6:turnOnAllLight	8	static
